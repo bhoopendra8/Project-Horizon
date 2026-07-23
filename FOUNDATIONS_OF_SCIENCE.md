@@ -19,3 +19,12 @@ By the end of this chapter, the reader should be able to:
 * **1610 CE:** Galileo Galilei conducts the first telescopic observations, empirically shattering the Aristotelian view of flawless celestial bodies.
 * **1929 CE:** Edwin Hubble provides observational evidence for the expansion of the Universe, demonstrating that empirical data must override theoretical assumptions (such as Einstein's static universe).
 * **1962 CE:** Thomas Kuhn publishes *The Structure of Scientific Revolutions*, defining the concept of the "paradigm shift."
+
+## Scientific Background: What Is Science?
+Science is not merely a collection of facts; it is a systematic, empirical, and inherently self-correcting methodology for constructing and organizing knowledge about the universe. The core pillars include:
+* **Observation:** The empirical recognition of a natural phenomenon. 
+* **Hypothesis:** A provisional, logically coherent explanation.
+* **Prediction:** The logical consequence of the hypothesis, which must be measurable.
+* **Experiment/Testing:** The rigorous empirical process of verifying the prediction.
+* **Reproducibility:** The requirement that independent researchers can replicate the results.
+* **Falsifiability:** As articulated by philosopher Karl Popper, a statement is scientifically meaningful only if there exists a theoretical mechanism by which it could be proven false.
