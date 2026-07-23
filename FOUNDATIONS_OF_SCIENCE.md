@@ -35,3 +35,8 @@ Science is not merely a collection of facts; it is a systematic, empirical, and 
 * **Paradigm Shift:** A fundamental change in the basic concepts and experimental practices of a scientific discipline.
 * **Direct Observation:** Phenomenological data obtained through primary senses or instruments.
 * **Indirect Evidence:** Inferring the properties of a phenomenon by observing its effects on its environment.
+
+## Mathematical Framework: Error and Uncertainty
+Science relies on quantified data. No measurement is absolute.
+* **Uncertainty Propagation:** Every scientific claim possesses a margin of error (e.g., a measurement of $x \pm \sigma$). When combining multiple measurements, uncertainties combine mathematically. 
+* **Statistical Significance:** In astrophysics and particle physics, discoveries are claimed based on the sigma ($\sigma$) level. A $5\sigma$ result implies roughly a 1 in 3.5 million probability that the observation is merely a random statistical fluctuation of background noise.
