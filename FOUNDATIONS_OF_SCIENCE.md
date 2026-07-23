@@ -28,3 +28,10 @@ Science is not merely a collection of facts; it is a systematic, empirical, and 
 * **Experiment/Testing:** The rigorous empirical process of verifying the prediction.
 * **Reproducibility:** The requirement that independent researchers can replicate the results.
 * **Falsifiability:** As articulated by philosopher Karl Popper, a statement is scientifically meaningful only if there exists a theoretical mechanism by which it could be proven false.
+
+## Definitions
+* **Epistemology:** The branch of philosophy concerned with the theory of knowledge, its methods, validity, and scope.
+* **Scientific Theory:** A well-substantiated, comprehensive, and cohesive explanation of some aspect of the natural world, acquired through the scientific method and repeatedly confirmed. 
+* **Paradigm Shift:** A fundamental change in the basic concepts and experimental practices of a scientific discipline.
+* **Direct Observation:** Phenomenological data obtained through primary senses or instruments.
+* **Indirect Evidence:** Inferring the properties of a phenomenon by observing its effects on its environment.
